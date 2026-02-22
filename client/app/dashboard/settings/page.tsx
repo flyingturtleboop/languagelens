@@ -232,9 +232,9 @@ export default function SettingsPage() {
             <Languages className="w-6 h-6 text-white" />
           </div>
         <div>
-            <h2 className="text-xl font-bold text-slate-900">Language Preferences (Demo)</h2>
+            <h2 className="text-xl font-bold text-slate-900">Change Languages </h2>
             <p className="text-sm text-slate-600">
-              Choose languages you want to learn. This is a front-end mock for the demo.
+              Choose languages you want to learn. 
             </p>
           </div>
         </div>
